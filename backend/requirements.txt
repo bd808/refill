@@ -1,0 +1,13 @@
+Babel
+beautifulsoup4
+celery
+dateparser
+Flask
+Flask-Cors
+flask-restplus
+furl
+mwparserfromhell
+pymongo
+pywikibot
+redis
+requests
